@@ -7,6 +7,7 @@ steps:
   folder1 : post_photos
   
   folder2 : pre_photos
+  
 2: put all the images u want to watermark in pre_photos
 
 3: Run "pip install requirements.txt"
