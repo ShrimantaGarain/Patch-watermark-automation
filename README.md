@@ -4,9 +4,9 @@ steps:
 
 1: create 2 folders remame to
 
-  folder1 : post_photos
+    folder1 : post_photos
   
-  folder2 : pre_photos
+    folder2 : pre_photos
   
 2: put all the images u want to watermark in pre_photos
 
